@@ -1,4 +1,4 @@
-Opa! Meu nome é Eric Pessoa, sou formado em análise e desenvolvimento de sistemas, e estou sempre buscando aprender coisas novas
+Opa! Meu nome é Eric Pessoa, sou formado em análise e desenvolvimento de sistemas, trabalho atualmente como desenvolvedor júnior de front end, e estou sempre buscando aprender coisas novas
 e tecnologias interessantes
 
 Guardo nesse git projetos de treino, trabalhos da faculdade e projetos pessoais
